@@ -1,0 +1,13 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.logo-text {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
